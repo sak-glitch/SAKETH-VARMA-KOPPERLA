@@ -1,0 +1,10 @@
+<svg width="300" height="100" viewBox="0 0 300 100" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon Part -->
+  <circle cx="50" cy="50" r="40" fill="#EBF8FF" stroke="#3182CE" stroke-width="4"/>
+  <path d="M50 25C50 25 34 45 34 57C34 65.8366 41.1634 73 50 73C58.8366 73 66 65.8366 66 57C66 45 50 25 50 25Z" fill="#4FD1C5"/>
+  <path d="M38 61C42 65 58 53 62 57" stroke="white" stroke-width="2" stroke-linecap="round"/>
+  
+  <!-- Text Part -->
+  <text x="100" y="65" font-family="Arial, sans-serif" font-weight="bold" font-size="48" fill="#2D3748">Soft</text>
+  <text x="195" y="65" font-family="Arial, sans-serif" font-weight="bold" font-size="48" fill="#3182CE">Flow</text>
+</svg>
