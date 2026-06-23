@@ -16,8 +16,7 @@ export default defineConfig({
       },
     },
   },
-  // For GitHub Pages, change base to '/<repo-name>/' if deploying to a subpath
-  base: '/',
+  base: '/SAKETH-VARMA-KOPPERLA/',
   server: {
     host: '0.0.0.0',
     port: 3000,
